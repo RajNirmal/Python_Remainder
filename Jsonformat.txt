@@ -1,0 +1,9 @@
+Array of JSON containing the following
+1. Title
+2. Description
+3. Due date
+
+
+Future Additions:
+Add a boolean to check if the bill has already been paid for the month
+A UI to add and delete items

@@ -1,0 +1,18 @@
+{
+    "Bills": [{
+            "Title": "Bill",
+            "Description": "Bill Description",
+            "DueDate": "26"
+        },
+        {
+            "Title": "Bill 2",
+            "Description": "Bill Description 2",
+            "DueDate": "15"
+        },
+        {
+            "Title": "Bill 3",
+            "Description": "Bill Description 3",
+            "DueDate": "2"
+        }
+    ]
+}
