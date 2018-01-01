@@ -16,4 +16,3 @@
 of guides that teach you how to do that so I am not going to cover that.<br><br>
 
 If you think the code sucks and can be improved branch it and do your thing<br><br>
-! [Don't complain about my code] (https://dl2.pushbulletusercontent.com/d8eqLYhyYRfJ5y8isKcPZpd2aCv8Tuai/photo.jpg "Leslie chow")
