@@ -9,10 +9,11 @@
     <li>Bill name</li>
     <li>Bill description</li>
     <li>Bill due date(Just the day)</li>
+</ul>
 <p>Take a look at <a href="https://github.com/RajNirmal/Python_Remainder/blob/master/items.json">this sample.</a>
 <hr>
-<br><br>Place the .py file and .json file a directory that will run it automaticallly when your machine starts up. There are a ton
+<br>Place the .py file and .json file a directory that will run it automaticallly when your machine starts up. There are a ton
 of guides that teach you how to do that so I am not going to cover that.<br><br>
 
 If you think the code sucks and can be improved branch it and do your thing<br><br>
-! [Don't complain about my code] (https://dl2.pushbulletusercontent.com/d8eqLYhyYRfJ5y8isKcPZpd2aCv8Tuai/photo.jpg)
+! [Don't complain about my code] (https://dl2.pushbulletusercontent.com/d8eqLYhyYRfJ5y8isKcPZpd2aCv8Tuai/photo.jpg "Leslie chow")
